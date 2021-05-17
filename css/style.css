@@ -1,0 +1,51 @@
+#title{
+    text-align: center;
+    font-size:70px;
+    background-color:#387BCC;
+    color:#BD8D31;
+    text-transform: uppercase;
+}
+#hobbie_label{
+    text-align: center;
+    color:#284970;
+    font-size: 40px;
+    line-height: 150px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+#code{
+    text-align: center;
+    color:#284970;
+    font-size:25px;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+#cricket{
+    text-align: center;
+    color:#284970;
+    font-size:25px;
+    line-height: 10;
+    text-transform: uppercase;
+}
+#cricketmoments{
+    text-align: center;
+    font-size: 70px;
+    color: #2ECB5E;
+    font-family: Impact, fantasy;
+}
+#cricket_momentspara{
+    font-size:20px;
+    color: #7930af;
+    font-family:Comic,cursive; 
+}
+#aboutme_head{
+    font-size: 80px;
+    color:#6BBB84;
+    Text-align: center;
+}    
+#aboutme{
+    font-family:Zapf Chancery, cursive;
+    color: #E61616;
+}
+
+
